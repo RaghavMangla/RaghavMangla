@@ -1,4 +1,4 @@
-## Hi there 👋, Raghav this side! 
+## Hi there 👋, I am Raghav
 
 # 💫 About Me:
 Digital Architect | Code Sorcerer | AI Wizard<br><br>🧙‍♂️ Crafting digital magic with a touch of whimsy and a sprinkle of code. From conjuring innovative software solutions to harnessing the power of AI, I'm on a quest to reshape the digital landscape.<br><br>🎯 Passionate About: Machine Learning, Generative AI, and building impactful software solutions.<br><br>⚽ Hobbies: Football, Table Tennis, Music<br><br>Let's code the future together! ✨<br><br>Description: I channel my passion and skills to create extraordinary digital experiences, summoning creative ideas from the depths of my mind to fuel my projects. <br><br>Motto: "Coding with a touch of magic, a dash of creativity, and a sprinkle of mischief."
