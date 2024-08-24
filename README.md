@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/raghav-mangla-516a61226/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/RaghavMangla7"><img width="32px" alt="x" title="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg"/></a>
+    <a href="https://x.com/RaghavMangla7"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/raghav_m19/"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
