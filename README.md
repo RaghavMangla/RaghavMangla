@@ -19,7 +19,7 @@ Digital Architect | Code Sorcerer | AI Wizard<br><br>🧙‍♂️ Crafting digi
 ![](https://github-profile-trophy.vercel.app/?username=RaghavMangla&theme=light&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RaghavMangla&limit=5&theme=light&combine_all_yearly_contributions=true)
