@@ -52,4 +52,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RaghavMangla&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @raghavmangla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghavmangla)](https://holopin.io/@raghavmangla)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
